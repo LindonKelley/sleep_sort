@@ -1,6 +1,3 @@
-# sleep_sort
-The least desirable O(n) sort
-
 This *wonderful* sorting method that spawns one thread per item, was brought to my attention by a friend, ending with the following messages:
 
 Lindon — Today at 1:23 PM
